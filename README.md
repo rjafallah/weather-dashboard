@@ -7,7 +7,7 @@ Application météo responsive développée avec React, dockerisée et déployé
 - 🔍 Recherche de ville en temps réel
 - 📍 Géolocalisation automatique
 - 🌡️ Météo actuelle (température, humidité, vent)
-- 📅 Prévisions sur 5 jours
+- 📅 Prévisions sur 5 jours 
 - 🌙 Mode sombre / clair
 
 ## 🛠️ Stack technique
